@@ -1,1 +1,3 @@
-# dignified-farkle-coders.github.io
+# Farkle
+
+### [Ground rules](docs/ground-rules.md)
