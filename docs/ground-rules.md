@@ -11,7 +11,7 @@
 * (Optional) Sunday after 2pm
 
 ## Daily Scrums:
-* Monday's After Class
+* Monday's After Class  
 
 
 ## Other Goals:
