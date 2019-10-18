@@ -1,5 +1,3 @@
-# Farkle
-
 ## Description
 Farkle is a simple game where you roll dice to accumulate points. When your die give you points
 you set those aside and choose whether to risk those points by rolling the remaining die or pass
