@@ -5,7 +5,7 @@
 
 * Text Message
 
-##Weekly Meetings:
+## Weekly Meetings:
 * Friday at 3:30pm
 
 * (Optional) Sunday after 2pm
